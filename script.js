@@ -93,5 +93,5 @@ var name=document.getElementById("name").value;
 var email=document.getElementById("email").value;  
 var subject=document.getElementById("subject").value;  
 var body=document.getElementById("body").value;
-window.open('mailto:shahidulshakib034@gmail.com?'+'&subject='+subject+'&body='+body);  
+window.open('mailto:argha705039@gmail.com?'+'&subject='+subject+'&body='+body);  
 }
